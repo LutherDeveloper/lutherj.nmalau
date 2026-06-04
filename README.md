@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Luther J.n Malau</h1>
+<h1 align="center">Hi 👋, I'm Luther Jecky Natanael Malau</h1>
 <h3 align="center">A passionate Software developer from indonesian</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lutherdeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="lutherdeveloper" /> </p>
